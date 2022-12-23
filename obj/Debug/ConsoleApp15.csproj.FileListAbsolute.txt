@@ -1,0 +1,8 @@
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\youse\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
